@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshangowda0" alt="darshangowda0" /> </p>
 
-- 🔭 I’m currently grinding [Leetcode](https://github.com/DarshanGowda0/LC-Grind)
+- 🔭 I’m currently taking a break, watching Attack on Titans and working on MIT's CS 6.824
 
 - 👯 I’m looking to collaborate on **anything that's cool and interesting!**
 
